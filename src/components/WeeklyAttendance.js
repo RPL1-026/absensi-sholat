@@ -22,7 +22,7 @@ const weekdays = [
   { day: 'Jumat',  sessions: ['Jumatan/Dzuhur'] }
 ];
 
-const statuses = ["Tidak/Belum", "Halangan", "Sudah"];
+const statuses = ["Tidak/Belum", "Sudah", "Halangan"];
 
 function WeeklyAttendance({ weekId, weekRange }) {
   const [attendance, setAttendance] = useState([]);
