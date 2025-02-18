@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/absensi-sholat/static/css/main.e6c13ad2.css",
+    "main.js": "/absensi-sholat/static/js/main.b6b0da80.js",
+    "static/js/453.5a82fd74.chunk.js": "/absensi-sholat/static/js/453.5a82fd74.chunk.js",
+    "index.html": "/absensi-sholat/index.html",
+    "main.e6c13ad2.css.map": "/absensi-sholat/static/css/main.e6c13ad2.css.map",
+    "main.b6b0da80.js.map": "/absensi-sholat/static/js/main.b6b0da80.js.map",
+    "453.5a82fd74.chunk.js.map": "/absensi-sholat/static/js/453.5a82fd74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b6b0da80.js"
+  ]
+}
